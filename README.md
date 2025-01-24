@@ -7,7 +7,7 @@
 
 ### A Jr. Data Enginner <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
-  ✉️  You can contact me at [saurabhthakre1721999@gmail.com](mailto:saurabhthakre1721999@gmail.com)<br>
+  ✉️  You can contact me at [rohankul2017@gmail.com](mailto:saurabhthakre1721999@gmail.com)<br>
   🔎  You can find me as *@saurabhpatil* on most social sites<br>
   🚀  I'm always learning something new!<br>
   🤝  I'm open to collaborating on Frontend work<br>
