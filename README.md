@@ -38,7 +38,7 @@
 </span>
 
 ### Holopin Board
-[![An image of @Saurabhpatil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Saurabhpatil)](https://holopin.io/@Saurabhpatil)
+[![An image of @RohanKulkarni,s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Saurabhpatil)](https://holopin.io/@Saurabhpatil)
 
 ----
 
