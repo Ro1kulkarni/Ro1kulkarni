@@ -223,7 +223,6 @@
       <td align="center">✅</td>
       <td>NoProxy</td>
       <td>Cheat proof attendance, MCA SEM-2 Mini Project</td>
-      <td align="center"><a href="https://github.com/NisooJadhav/NoProxy">https://github.com/NisooJadhav/NoProxy</a></td>
     </tr>
   </table>
 
