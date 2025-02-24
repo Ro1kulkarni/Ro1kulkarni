@@ -222,7 +222,7 @@
     <tr>
       <td align="center">✅</td>
       <td>NoProxy</td>
-      <td>Cheat proof attendance, MCA SEM-2 Mini Project</td>
+      <td>Cheat proof attendance</td>
     </tr>
   </table>
 
