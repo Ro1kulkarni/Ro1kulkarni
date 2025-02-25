@@ -216,7 +216,7 @@
     <tr>
       <td align="center">📚</td>
       <td>IT Study</td>
-      <td>Complete IT Study collection</td>
+      <td></td>
       <td align="center"><a href="https://drive.google.com/drive/folders/1Pfxv5BLrawIOG5U-eYOpnoQ4R0gpsdLB?usp=share_link">https://tinyurl.com/mr3d8pfr</a> </td>
     </tr>
     <tr>
