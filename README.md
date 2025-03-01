@@ -37,9 +37,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-h-patil&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400" height="160" /></a>
 </span>
 
-### Holopin Board
-[![An image of @RohanKulkarni,s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Saurabhpatil)](https://holopin.io/@Saurabhpatil)
-
 ----
 
 ### 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects
