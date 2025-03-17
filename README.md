@@ -10,7 +10,7 @@
   ✉️  You can contact me at [rohankul2017@gmail.com](mailto:rohankul2017@gmail.com)<br>
   🔎  You can find me as *@RohanKulkarni* on most social sites<br>
   🚀  I'm always learning something new!<br>
-  🤝  I'm open to collaborating on Frontend work<br>
+  🤝  I'm open to collaborating on AI work<br>
   ❓   Ask me about Data, Cooking, and International Affairs<br>
 
 <!--   ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge) -->
