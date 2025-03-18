@@ -19,7 +19,7 @@
 ### Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,Pyspark,bootstrap,js,jquery,php,mysql,mongodb,express,react,nodejs,tailwind,opencv" />
+    <img src="https://skillicons.dev/icons?i=python,bootstrap,js,jquery,php,mysql,mongodb,express,react,nodejs,tailwind,opencv" />
 </p>
 
 ### Tools
