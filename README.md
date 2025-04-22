@@ -19,7 +19,7 @@
 ### Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,sql,aws,snowflake,databricks,azure,postgresql,tableau,pandas" />
+    <img src="https://skillicons.dev/icons?i=python,sql,aws,snowflake,databricks,azure,postgresql,pandas" />
 </p>
 
 ### Tools
