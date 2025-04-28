@@ -25,7 +25,7 @@
 ### Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman" />
 </p>
 
 ----
