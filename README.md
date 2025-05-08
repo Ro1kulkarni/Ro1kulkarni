@@ -124,7 +124,7 @@
     <tr>
       <td align="center">🙏</td>
       <td>Tribute Page</td>
-      <td>Tribute page of Mr. Namdev Sutar(my maternal grandfather), received The National Award For Teachers in 1997 from then-Indian President K. R. Narayanan.</td>
+      <td></td>
       <td align="center"><a href="https://nisoojadhav.github.io/namdev-sutar/">https://nisoojadhav.github.io/namdev-sutar/</a></td>
     </tr>
     <tr>
