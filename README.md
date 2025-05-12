@@ -49,7 +49,7 @@
     </tr>
     <tr align="center">
       <td>
-        <a href="https://github.com/NisooJadhav/clock/graphs/contributors" target="_blank">
+        <a href="https://github.com/N/clock/graphs/contributors" target="_blank">
           17 contributors
         </a>
       </td>
