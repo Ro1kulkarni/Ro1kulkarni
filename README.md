@@ -58,7 +58,7 @@
     </tr>
     <tr align="center">
       <td>Alone</td>
-      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/7ed2ea4e-d18d-4cba-b41e-c176c22200f6" height="80" /> </td>
+      <td> <img src="https://github.com/NisooJadhav/assets/68807845/7ed2ea4e-d18d-4cba-b41e-c176c22200f6" height="80" /> </td>
       <td> https://brightfeed.onrender.com/ </td>
     </tr>
     <tr align="center">
