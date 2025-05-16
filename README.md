@@ -63,7 +63,7 @@
     </tr>
     <tr align="center">
       <td>Alone</td>
-      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/3c2956a8-81ff-4276-bf93-9f7a998389b3" height="80" /> </td>
+      <td> <img src="https://github.com/NisooJadhav/assets/68807845/3c2956a8-81ff-4276-bf93-9f7a998389b3" height="80" /> </td>
       <td> https://hacker-newz.vercel.app/ </td>
     </tr>
     <tr align="center">
