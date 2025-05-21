@@ -53,7 +53,7 @@
           17 contributors
         </a>
       </td>
-      <td> <img src="https://github.com/NisooJadhav/assets/68807845/51709207-e67a-4d7f-81ad-4536e40602f1" height="80" /> </td>
+      <td> <img src="https://github.com/assets/68807845/51709207-e67a-4d7f-81ad-4536e40602f1" height="80" /> </td>
       <td> https://nisoojadhav.github.io/clock/ </td>
     </tr>
     <tr align="center">
