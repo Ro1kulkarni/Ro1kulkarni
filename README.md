@@ -68,7 +68,7 @@
     </tr>
     <tr align="center">
       <td>4 members</td>
-      <td> <img src="https://github.com/NisooJadhav/assets/68807845/6cb001eb-4efe-4246-a2aa-a8b62576f1a1" height="80" /> </td>
+      <td> <img src="https://github.com/assets/68807845/6cb001eb-4efe-4246-a2aa-a8b62576f1a1" height="80" /> </td>
       <td> 
         https://studycomrades.netlify.app/
       </td>
