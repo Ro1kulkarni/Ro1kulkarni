@@ -40,7 +40,7 @@
 
 ----
 
-### 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects
+### 👨‍💻 [Hackathon](https://devpost.com) Projects
   <table align="center">
     <tr align="center">
       <th>Members</th>
