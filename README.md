@@ -75,7 +75,7 @@
     </tr>
     <tr align="center">
       <td>6 members</td>
-      <td> <img src="https://github.com/NisooJadhav/assets/68807845/ed70e8d0-7a4e-4981-8994-7b933521b802" height="80" /> </td>
+      <td> <img src="https://github.com/assets/68807845/ed70e8d0-7a4e-4981-8994-7b933521b802" height="80" /> </td>
       <td> 
         <a href="https://www.youtube.com/watch?v=uHHmKD_PSOc" target="_blank">
           <img src="https://img.youtube.com/vi/uHHmKD_PSOc/0.jpg" height="80" />
