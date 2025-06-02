@@ -84,7 +84,7 @@
     </tr>
     <tr align="center">
       <td>4 members</td>
-      <td> <img src="https://github.com/NisooJadhav/assets/68807845/1f2b3204-0622-434e-9ad8-3b281d2280be" height="50" /> </td>
+      <td> <img src="https://github.com/assets/68807845/1f2b3204-0622-434e-9ad8-3b281d2280be" height="50" /> </td>
       <td>
         https://github.com/TheNxtBigThing/tradeswift
       </td>
