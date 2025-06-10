@@ -91,7 +91,7 @@
     </tr>
     <tr align="center">
       <td>4 members</td>
-      <td> <img src="https://github.com/NisooJadhav/assets/68807845/2baf2a4e-d29f-4572-aa5d-fb271e647ae0" height="50" /> </td>
+      <td> <img src="https://github.com/assets/68807845/2baf2a4e-d29f-4572-aa5d-fb271e647ae0" height="50" /> </td>
       <td> 
         https://mentorius.vercel.app/
       </td>
