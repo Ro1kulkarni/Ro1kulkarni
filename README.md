@@ -119,7 +119,7 @@
       <td align="center">🤵</td>
       <td>Portfolio</td>
       <td>My Portfolio site</td>
-      <td align="center"><a href="https://nisootech.vercel.app/">https://nisootech.vercel.app/</a></td>      
+      <td align="center"><a href="https://p/">https://nisootech.vercel.app/</a></td>      
     </tr>
     <tr>
       <td align="center">🙏</td>
