@@ -112,7 +112,7 @@
     <tr>
       <td align="center">🚜</td>
       <td>Gavgada.in</td>
-      <td>Freelance e-Commerce project showcasing Rural Products(Charholi Bk, Pune, India)</td>
+      <td>Freelance e-Commerce project showcasing Products(Charholi Bk, Pune, India)</td>
       <td align="center"><a href="https://gavgada.in/">https://gavgada.in/</a></td>
     </tr>
     <tr>
