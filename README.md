@@ -125,7 +125,7 @@
       <td align="center">🙏</td>
       <td>Tribute Page</td>
       <td></td>
-      <td align="center"><a href="https:/.github.io/namdev-sutar/">https://nisoojadhav.github.io/namdev-sutar/</a></td>
+      <td align="center"><a href="https:/.github.io/sutar/">https://nisoojadhav.github.io/namdev-sutar/</a></td>
     </tr>
     <tr>
       <td align="center">🛬</td>
