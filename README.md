@@ -137,7 +137,7 @@
       <td align="center">⚡</td>
       <td>Web Resources</td>
       <td>All useful resources for web developers in one place</td>
-      <td align="center"><a href="https://nisoojadhav.github.io/resources">https://nisoojadhav.github.io/resources</a></td>
+      <td align="center"><a href="https://n.github.io/resources">https://nisoojadhav.github.io/resources</a></td>
     </tr>
     <tr>
       <td align="center">🥁</td>
